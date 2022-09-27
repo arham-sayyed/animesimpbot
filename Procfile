@@ -1,1 +1,1 @@
-worker: python mornquotebot.py
+worker: python simp.py
